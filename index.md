@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Douwe Vincent"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm a great software engineer working on some cool projects
